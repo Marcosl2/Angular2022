@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+.loading {
+  padding: 25px;
+  background-color: rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu{
+  background-color: rgb(24, 153, 240);
+  color: #fff;
+}
